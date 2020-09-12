@@ -6,17 +6,17 @@
         "light": "codeready-workspaces-logo-dark.png"
     },
     "welcome": {
-        "title": "Welcome to Your Workspace",
+        "title": "Welcome to Your Odin Workspace",
         "links": ["website", "documentation"]
     },
     "links": {
         "website": {
-            "name": "Discover CodeReady Workspaces",
-            "url": "https://developers.redhat.com/products/codeready-workspaces/overview"
+            "name": "Discover SmartFul Odin",
+            "url": "https://tbd"
         },
         "documentation": {
             "name": "Browse Documentation",
-            "url": "https://www.redhat.com/docs"
+            "url": "https://tbd"
         }
     }
 }
